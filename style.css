@@ -1,0 +1,46 @@
+/* Applies styles to the whole html page */
+body {
+    background-color: #858585;
+}
+/* Applies styles to images */
+#vdlh {
+    border: 1px solid black;
+    background-color: none;
+}
+/* Applies styles to the paragraphs */
+.aboutc {
+}
+.purposec {
+}
+.membersc {
+}
+.faqc {
+}
+.supportc {
+    color: white;
+}
+/* Applies styles to the heads */
+#HeadAbout {
+    font-size:20px;
+}
+#HeadPurpose {
+    font-size:20px;
+}
+#HeadMembers {
+    font-size:20px;
+}
+#HeadFAQ {
+    font-size:20px;
+}
+#HeadSupport {
+    font-size:20px;
+}
+/* Applies styles to the footer */
+#foooter {
+    background-color: #202020;
+    padding: 10px 10px 0px 10px;
+    position: fixed;
+                bottom: 0;
+                width: 100%;
+}
+/* Applies styles to the navigation*/
