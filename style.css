@@ -5,7 +5,9 @@ body {
 /* Applies styles to images */
 #vdlh {
     border: 1px solid black;
-    background-color: none;
+    position: fixed;
+    top: 15%;
+    left: 35%;
 }
 /* Applies styles to the paragraphs */
 .aboutc {
@@ -35,12 +37,30 @@ body {
 #HeadSupport {
     font-size:20px;
 }
+#HeadProject {
+    font-size:20px;
+}
 /* Applies styles to the footer */
 #foooter {
     background-color: #202020;
-    padding: 10px 10px 0px 10px;
     position: fixed;
                 bottom: 0;
                 width: 100%;
+                left: 1px;
 }
-/* Applies styles to the navigation*/
+/* Applies styles to the navigation bar */
+nav {
+    background-color: #252525;
+    padding-bottom : 12px;
+    padding-top : 12px;
+    border: 2px solid white
+}
+.coloreda {
+    color : blue;
+}
+.ona {
+    color: #858585;
+}
+a {
+    font-size : 18px;
+}
