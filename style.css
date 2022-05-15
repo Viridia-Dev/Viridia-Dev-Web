@@ -11,15 +11,23 @@ body {
 }
 /* Applies styles to the paragraphs */
 .aboutc {
+    padding-left: 10px;
 }
 .purposec {
+    padding-left: 10px;
 }
 .membersc {
+    padding-left: 10px;
 }
 .faqc {
+    padding-left: 10px;
+}
+.projectc {
+    padding-left: 10px;
 }
 .supportc {
     color: white;
+    padding-left: 25px;
 }
 /* Applies styles to the heads */
 #HeadAbout {
@@ -56,11 +64,21 @@ nav {
     border: 2px solid white
 }
 .coloreda {
-    color : blue;
+    color : #858585;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 .ona {
-    color: #858585;
+    color: #505050;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 a {
     font-size : 18px;
+}
+.coloreda:hover {
+    color: #0080ff;
+    text-decoration: none;
+    font-weight: none;
 }
