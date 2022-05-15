@@ -1,6 +1,7 @@
 /* Applies styles to the whole html page */
 body {
     background-color: #858585;
+    font-family: Arial, sans-serif;
 }
 /* Applies styles to images */
 #vdlh {
@@ -59,20 +60,20 @@ body {
 /* Applies styles to the navigation bar */
 nav {
     background-color: #252525;
-    padding-bottom : 12px;
-    padding-top : 12px;
+    padding-bottom : 13px;
+    padding-top : 13px;
     border: 2px solid white
 }
 .coloreda {
     color : #858585;
     text-decoration: none;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 13px;
+    padding-right: 13px;
 }
 .ona {
     color: #505050;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 13px;
+    padding-right: 13px;
 }
 a {
     font-size : 18px;
