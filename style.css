@@ -46,7 +46,7 @@ body {
     position: fixed;
                 bottom: 0;
                 width: 100%;
-                left: 1px;
+                left: 0px;
 }
 /* Applies styles to the navigation bar */
 nav {
