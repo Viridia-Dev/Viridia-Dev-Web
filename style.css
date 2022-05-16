@@ -4,11 +4,8 @@ body {
     font-family: Arial, sans-serif;
 }
 /* Applies styles to images */
-#vdlh {
-    border: 1px solid black;
-    position: fixed;
-    top: 15%;
-    left: 35%;
+.vdlh {
+    text-align: center;
 }
 /* Applies styles to the paragraphs */
 .aboutc {
@@ -29,6 +26,12 @@ body {
 .supportc {
     color: white;
     padding-left: 25px;
+    font-size: 15px;
+}
+.socialc {
+    color: white;
+    padding-left:25px;
+    font-size: 15px;
 }
 /* Applies styles to the heads */
 #HeadAbout {
@@ -43,9 +46,6 @@ body {
 #HeadFAQ {
     font-size:20px;
 }
-#HeadSupport {
-    font-size:20px;
-}
 #HeadProject {
     font-size:20px;
 }
@@ -56,6 +56,16 @@ body {
                 bottom: 0;
                 width: 100%;
                 left: 0px;
+   text-align: center;
+}
+.slinks {
+    color: #0080ff;
+    text-decoration: none;
+    font-weight: none;
+    font-size: 15px;
+}
+#dc {
+
 }
 /* Applies styles to the navigation bar */
 nav {
@@ -83,8 +93,6 @@ a {
     text-decoration: none;
     font-weight: none;
 }
-.slinks {
-    color: #0080ff;
-    text-decoration: none;
-    font-weight: none;
+/* Applies styles to the social icons */
+#yt {
 }
